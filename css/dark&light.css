@@ -1,0 +1,7 @@
+.light {
+  background-color: white;
+}
+
+.light * {
+  color: white !important;
+}
